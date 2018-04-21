@@ -1,2 +1,3 @@
-NSString *str = @"hello,";
-str = [str stringByAppendingString:@" world"];
+/* Swift by TryHTML */
+
+let tryhtml = "trythml"
