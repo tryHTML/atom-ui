@@ -3,7 +3,7 @@
 
 > TryHTML UI theme for [Atom](https://atom.io). Let's code in Indigo.
 
-[![Tryhtml-bandage](media/atom-theme.svg)](https://github.com/tryhtml)
+[![Tryhtml-bandage](https://imagestryht.ml/themes/atom/atom-theme-badge.svg)](https://github.com/tryhtml)
 [![apm](https://img.shields.io/apm/dm/tryhtml-atom-ui.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-ui)
 [![apm](https://img.shields.io/apm/v/tryhtml-atom-ui.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-ui)
 [![apm](https://img.shields.io/apm/l/tryhtml-atom-ui.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-ui)
