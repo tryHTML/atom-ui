@@ -1,4 +1,4 @@
-![Atom Syntax](media/atom-syntax.png)
+![Atom ui](media/tryhtml-ui.png)
 
 
 > TryHTML UI theme for [Atom](https://atom.io). Let's code in Indigo.
