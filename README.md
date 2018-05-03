@@ -38,7 +38,8 @@ Using ![Atom](media/atom.png) **Atom**  :
 
 # Related
 
-- [TryHTML Atom Syntax](https://github.com/atom-syntax) Theme.
+- [TryHTML Atom Syntax](https://github.com/tryhtml/atom-syntax) Theme.
+
 # Contributors
 
 [![Carlos Abraham](https://avatars3.githubusercontent.com/u/21347264?s=100&v=43&s)](https://github.com/19cah) |
