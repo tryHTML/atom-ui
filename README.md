@@ -9,7 +9,7 @@
 [![apm](https://img.shields.io/apm/l/tryhtml-atom-ui.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-ui)
 
 
-![Trailer](media/screenshot.gif)
+![Trailer](media/screenshot.png)
 
 # Installation
 
