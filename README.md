@@ -1,4 +1,4 @@
-![Atom Syntax](media/atom-syntax.png)
+![Atom ui](media/tryhtml-ui.png)
 
 
 > TryHTML UI theme for [Atom](https://atom.io). Let's code in Indigo.
@@ -39,6 +39,7 @@ Using ![Atom](media/atom.png) **Atom**  :
 # Related
 
 - [TryHTML Atom Syntax](https://github.com/atom-syntax) Theme.
+
 # Contributors
 
 [![Carlos Abraham](https://avatars3.githubusercontent.com/u/21347264?s=100&v=43&s)](https://github.com/19cah) |
