@@ -1,0 +1,23 @@
+{
+  "name": "tryhtml-atom-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "An indigo UI theme for Atom",
+  "author": {
+    "name": "Try HTML",
+    "email": "support@tryhtml.org",
+    "url": "http://themes.tryhtml.org"
+  },
+  "keywords": [
+    "ui",
+    "theme",
+    "tryhtml",
+    "tryhtml-atom",
+    "atom-ui"
+  ],
+  "repository": "https://github.com/tryhtml/atom-ui.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
