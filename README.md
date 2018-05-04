@@ -9,11 +9,11 @@
 [![apm](https://img.shields.io/apm/l/tryhtml-atom-ui.svg?style=flat-square)](https://atom.io/packages/tryhtml-atom-ui)
 
 
-![Trailer](media/screenshot.png)
+![Trailer](https://imagestryht.ml/themes/atom/screenshot.png)
 
 # Installation
 
-Using ![Atom](media/atom.png) **Atom**  :
+Using ![Atom](https://imagestryht.ml/themes/atom/atom.png) **Atom**  :
 
 >Themes can be installed and changed from the **`Settings View`** which you can open by selecting
 
@@ -28,13 +28,13 @@ Using ![Atom](media/atom.png) **Atom**  :
 
 # Social
 
->[![Twitter](media/twitter.png)](https://twitter.com/tryhtml)
->[![Instagram](media/instagram.png)](https://instagram.com/tryhtml)
->[![Facebook](media/facebook.png)](https://facebook.com/tryhtml)
+>[![Twitter](https://imagestryht.ml/themes/twitter.png)](https://twitter.com/tryhtml)
+>[![Instagram](https://imagestryht.ml/themes/instagram.png)](https://instagram.com/tryhtml)
+>[![Facebook](https://imagestryht.ml/themes/facebook.png)](https://facebook.com/tryhtml)
 
 # Donate
 
-[![Become a Patreon](media/patreon.png)](https://www.patreon.com/bePatron?u=10553679)
+[![Become a Patreon](https://imagestryht.ml/themes/patreon.png)](https://www.patreon.com/bePatron?u=10553679)
 
 # Related
 
