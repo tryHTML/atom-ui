@@ -1,4 +1,4 @@
-![Atom ui](media/tryhtml-ui.png)
+![Atom ui](https://imagestryht.ml/themes/atom/tryhtml-ui.png)
 
 
 > TryHTML UI theme for [Atom](https://atom.io). Let's code in Indigo.
